@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #333 ;
+}
+
+.div1{
+    background-color: rgba(0, 0, 0, 0.575);
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+}
